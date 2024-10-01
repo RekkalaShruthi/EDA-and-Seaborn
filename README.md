@@ -1,1 +1,2 @@
 # EDA-and-Seaborn
+Here, we used EDA techniques on a movie ratings data set. First, we cleaned the data by removing noise and blanks. Next, we learnt how to create various plots from the data, including histograms, box plots, vilion plots, scatter plots, stacked plots, and more, using Python visualisation tools like Seaborn and matplotlib. Finally, we made some observations about the data using these plots.
